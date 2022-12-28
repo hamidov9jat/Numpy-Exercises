@@ -10,4 +10,3 @@ in that same folder.
 
 ## Running notebooks in JupyterLab
 By executing `jupyter-lab` command from the repository folder you will be able to run notebooks located in the `notebooks` folder.
-# Numpy-Exercises
